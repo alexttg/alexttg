@@ -14,19 +14,6 @@
 
 ---
 
-### 🚀 精选项目
-
-<p align="center">
-  <a href="https://github.com/alexttg/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexttg&repo=your-project-1" />
-  </a>
-  <a href="https://github.com/alexttg/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexttg&repo=your-project-2" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub 统计
 
 <p align="center">
